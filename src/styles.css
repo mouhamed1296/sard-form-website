@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  /*text-align: center;*/
+}
+img {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /*align-items: center;*/
+  width: 200px;
+  gap: 1.5rem;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.form-control {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+}
+
+.btn {
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  color: #fbb43f;
+  background-color: #1e2022;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  font-family: cursive;
+}
