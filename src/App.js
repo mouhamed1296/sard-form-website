@@ -1,5 +1,5 @@
 import "./styles.css";
-import { Form, FormElement } from "sard-form";
+import { Form, FormElement, VRules } from "sard-form";
 
 export default function App() {
   const wrapper = {
